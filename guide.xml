@@ -1,11 +1,2796 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
+  <channel id="AE">
+    <display-name lang="pt">AE</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
-  <programme start="20200819000000 +0100" stop="20200819235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN BRASIL">
+    <display-name lang="pt">ESPN BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Séries">
+    <display-name lang="pt">TNT Séries</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20200819153000 -0300" stop="20200819163000 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200819163000 -0300" stop="20200819170000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200819170000 -0300" stop="20200819173000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20200819173000 -0300" stop="20200819183000 -0300" channel="Viva">
+    <title lang="pt">Sai de Baixo</title>
+  </programme>
+  <programme start="20200819183000 -0300" stop="20200819193000 -0300" channel="Viva">
+    <title lang="pt">Zorra Total</title>
+  </programme>
+  <programme start="20200819193000 -0300" stop="20200819200000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200819200000 -0300" stop="20200819203000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200819203000 -0300" stop="20200819210000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200819210000 -0300" stop="20200819220000 -0300" channel="Viva">
+    <title lang="pt">Zorra Total</title>
+  </programme>
+  <programme start="20200819220000 -0300" stop="20200819223000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200819223000 -0300" stop="20200819230000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200819230000 -0300" stop="20200820000000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200820000000 -0300" stop="20200820004500 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200820004500 -0300" stop="20200820013000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200820013000 -0300" stop="20200820023000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200820023000 -0300" stop="20200820030000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200820030000 -0300" stop="20200820033000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200820033000 -0300" stop="20200820040000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200820040000 -0300" stop="20200820043000 -0300" channel="Viva">
+    <title lang="pt">Donos da História</title>
+  </programme>
+  <programme start="20200820043000 -0300" stop="20200820050000 -0300" channel="Viva">
+    <title lang="pt">Donos da História</title>
+  </programme>
+  <programme start="20200820050000 -0300" stop="20200820060000 -0300" channel="Viva">
+    <title lang="pt">Entre o Céu e a Terra</title>
+  </programme>
+  <programme start="20200820060000 -0300" stop="20200820070000 -0300" channel="Viva">
+    <title lang="pt">Viver do Riso</title>
+  </programme>
+  <programme start="20200820070000 -0300" stop="20200820073000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200820073000 -0300" stop="20200820080000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200820080000 -0300" stop="20200820083000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200820083000 -0300" stop="20200820090000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200820090000 -0300" stop="20200820093000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200820093000 -0300" stop="20200820100000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200820100000 -0300" stop="20200820103000 -0300" channel="Viva">
+    <title lang="pt">Sandy e Júnior</title>
+  </programme>
+  <programme start="20200820103000 -0300" stop="20200820110000 -0300" channel="Viva">
+    <title lang="pt">A Turma do Didi</title>
+  </programme>
+  <programme start="20200820110000 -0300" stop="20200820123000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200820123000 -0300" stop="20200820130000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200820130000 -0300" stop="20200820133000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200820133000 -0300" stop="20200820143000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200820143000 -0300" stop="20200820153000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200820153000 -0300" stop="20200820163000 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200820163000 -0300" stop="20200820173000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200820173000 -0300" stop="20200820193000 -0300" channel="Viva">
+    <title lang="pt">Zorra Total</title>
+  </programme>
+  <programme start="20200820193000 -0300" stop="20200820200000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200820200000 -0300" stop="20200820203000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200820203000 -0300" stop="20200820210000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200820210000 -0300" stop="20200820220000 -0300" channel="Viva">
+    <title lang="pt">Louco Por Elas</title>
+  </programme>
+  <programme start="20200820220000 -0300" stop="20200820223000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200820223000 -0300" stop="20200820230000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200820230000 -0300" stop="20200821000000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200821000000 -0300" stop="20200821004500 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200821004500 -0300" stop="20200821013000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200821013000 -0300" stop="20200821023000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200821023000 -0300" stop="20200821030000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200821030000 -0300" stop="20200821033000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200821033000 -0300" stop="20200821040000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200821040000 -0300" stop="20200821043000 -0300" channel="Viva">
+    <title lang="pt">Rebobina</title>
+  </programme>
+  <programme start="20200821043000 -0300" stop="20200821050000 -0300" channel="Viva">
+    <title lang="pt">Rebobina</title>
+  </programme>
+  <programme start="20200821050000 -0300" stop="20200821060000 -0300" channel="Viva">
+    <title lang="pt">Entre o Céu e a Terra</title>
+  </programme>
+  <programme start="20200821060000 -0300" stop="20200821070000 -0300" channel="Viva">
+    <title lang="pt">Supernanny Pelo Mundo - Holanda</title>
+  </programme>
+  <programme start="20200821070000 -0300" stop="20200821073000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200821073000 -0300" stop="20200821080000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200821080000 -0300" stop="20200821083000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200821083000 -0300" stop="20200821090000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200821090000 -0300" stop="20200821093000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200821093000 -0300" stop="20200821100000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200821100000 -0300" stop="20200821103000 -0300" channel="Viva">
+    <title lang="pt">Sandy e Júnior</title>
+  </programme>
+  <programme start="20200821103000 -0300" stop="20200821110000 -0300" channel="Viva">
+    <title lang="pt">A Turma do Didi</title>
+  </programme>
+  <programme start="20200821110000 -0300" stop="20200821123000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200821123000 -0300" stop="20200821130000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200821130000 -0300" stop="20200821133000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200821133000 -0300" stop="20200821143000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200821143000 -0300" stop="20200821153000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200821153000 -0300" stop="20200821163000 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200821163000 -0300" stop="20200821173000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200821173000 -0300" stop="20200821180000 -0300" channel="Viva">
+    <title lang="pt">Louco Por Elas</title>
+  </programme>
+  <programme start="20200821180000 -0300" stop="20200821193000 -0300" channel="Viva">
+    <title lang="pt">Louco Por Elas</title>
+  </programme>
+  <programme start="20200821193000 -0300" stop="20200821200000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200821200000 -0300" stop="20200821203000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200821203000 -0300" stop="20200821210000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200821210000 -0300" stop="20200821220000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200821220000 -0300" stop="20200821223000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200821223000 -0300" stop="20200821230000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200821230000 -0300" stop="20200822000000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200822000000 -0300" stop="20200822004500 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200822004500 -0300" stop="20200822013000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200822013000 -0300" stop="20200822023000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200822023000 -0300" stop="20200822030000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200822030000 -0300" stop="20200822033000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200822033000 -0300" stop="20200822040000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200822040000 -0300" stop="20200822050000 -0300" channel="Viva">
+    <title lang="pt">Supernanny Pelo Mundo - Holanda</title>
+  </programme>
+  <programme start="20200822050000 -0300" stop="20200822060000 -0300" channel="Viva">
+    <title lang="pt">Entre o Céu e a Terra</title>
+  </programme>
+  <programme start="20200822060000 -0300" stop="20200822063000 -0300" channel="Viva">
+    <title lang="pt">Vigiando a Vovó</title>
+  </programme>
+  <programme start="20200822063000 -0300" stop="20200822073000 -0300" channel="Viva">
+    <title lang="pt">Caixa de Costura</title>
+  </programme>
+  <programme start="20200822073000 -0300" stop="20200822093000 -0300" channel="Viva">
+    <title lang="pt">Xuxa e os Trapalhões em O Mistério de Robin Hood</title>
+  </programme>
+  <programme start="20200822093000 -0300" stop="20200822110000 -0300" channel="Viva">
+    <title lang="pt">O Trapalhão na Ilha do Tesouro</title>
+  </programme>
+  <programme start="20200822110000 -0300" stop="20200822120000 -0300" channel="Viva">
+    <title lang="pt">Mr. M</title>
+  </programme>
+  <programme start="20200822120000 -0300" stop="20200822133000 -0300" channel="Viva">
+    <title lang="pt">Sob Nova Direção</title>
+  </programme>
+  <programme start="20200822133000 -0300" stop="20200822143000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200822143000 -0300" stop="20200822153000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200822153000 -0300" stop="20200822163000 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200822163000 -0300" stop="20200822180000 -0300" channel="Viva">
+    <title lang="pt">Sob Nova Direção</title>
+  </programme>
+  <programme start="20200822180000 -0300" stop="20200822183000 -0300" channel="Viva">
+    <title lang="pt">Donos da História</title>
+  </programme>
+  <programme start="20200822183000 -0300" stop="20200822190000 -0300" channel="Viva">
+    <title lang="pt">Grandes Atores</title>
+  </programme>
+  <programme start="20200822190000 -0300" stop="20200822193000 -0300" channel="Viva">
+    <title lang="pt">As Vilãs que Amamos</title>
+  </programme>
+  <programme start="20200822193000 -0300" stop="20200822200000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200822200000 -0300" stop="20200822203000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200822203000 -0300" stop="20200822210000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200822210000 -0300" stop="20200822213000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200822213000 -0300" stop="20200822220000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200822220000 -0300" stop="20200822223000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200822223000 -0300" stop="20200822230000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200822230000 -0300" stop="20200823000000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823000000 -0300" stop="20200823004500 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200823004500 -0300" stop="20200823013000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200823013000 -0300" stop="20200823030000 -0300" channel="Viva">
+    <title lang="pt">Xuxa e os Trapalhões em O Mistério de Robin Hood</title>
+  </programme>
+  <programme start="20200823030000 -0300" stop="20200823043000 -0300" channel="Viva">
+    <title lang="pt">O Trapalhão na Ilha do Tesouro</title>
+  </programme>
+  <programme start="20200823043000 -0300" stop="20200823053000 -0300" channel="Viva">
+    <title lang="pt">Viver do Riso</title>
+  </programme>
+  <programme start="20200823053000 -0300" stop="20200823060000 -0300" channel="Viva">
+    <title lang="pt">As Vilãs que Amamos</title>
+  </programme>
+  <programme start="20200823060000 -0300" stop="20200823070000 -0300" channel="Viva">
+    <title lang="pt">Mr. M</title>
+  </programme>
+  <programme start="20200823070000 -0300" stop="20200823080000 -0300" channel="Viva">
+    <title lang="pt">Entre o Céu e a Terra</title>
+  </programme>
+  <programme start="20200823080000 -0300" stop="20200823090000 -0300" channel="Viva">
+    <title lang="pt">Entre o Céu e a Terra</title>
+  </programme>
+  <programme start="20200823090000 -0300" stop="20200823093000 -0300" channel="Viva">
+    <title lang="pt">Viver com Fé</title>
+  </programme>
+  <programme start="20200823093000 -0300" stop="20200823103000 -0300" channel="Viva">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20200823103000 -0300" stop="20200823113000 -0300" channel="Viva">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20200823113000 -0300" stop="20200823120000 -0300" channel="Viva">
+    <title lang="pt">Viver com Fé</title>
+  </programme>
+  <programme start="20200823120000 -0300" stop="20200823123000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200823123000 -0300" stop="20200823130000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200823130000 -0300" stop="20200823133000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200823133000 -0300" stop="20200823140000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200823140000 -0300" stop="20200823143000 -0300" channel="Viva">
+    <title lang="pt">Louco Por Elas</title>
+  </programme>
+  <programme start="20200823143000 -0300" stop="20200823150000 -0300" channel="Viva">
+    <title lang="pt">Louco Por Elas</title>
+  </programme>
+  <programme start="20200823150000 -0300" stop="20200823154500 -0300" channel="Viva">
+    <title lang="pt">Os Caras de Pau</title>
+  </programme>
+  <programme start="20200823154500 -0300" stop="20200823173000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200823173000 -0300" stop="20200823183000 -0300" channel="Viva">
+    <title lang="pt">Viver do Riso</title>
+  </programme>
+  <programme start="20200823183000 -0300" stop="20200823190000 -0300" channel="Viva">
+    <title lang="pt">As Vilãs que Amamos</title>
+  </programme>
+  <programme start="20200823190000 -0300" stop="20200823194500 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823194500 -0300" stop="20200823203000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823203000 -0300" stop="20200823211500 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823211500 -0300" stop="20200823220000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823220000 -0300" stop="20200823224500 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823224500 -0300" stop="20200823234500 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200823234500 -0300" stop="20200824010000 -0300" channel="Viva">
+    <title lang="pt">Dona Flor e seus dois Maridos</title>
+  </programme>
+  <programme start="20200824010000 -0300" stop="20200824020000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200824020000 -0300" stop="20200824030000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200824030000 -0300" stop="20200824040000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200824040000 -0300" stop="20200824050000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200824050000 -0300" stop="20200824060000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200824060000 -0300" stop="20200824063000 -0300" channel="Viva">
+    <title lang="pt">Vigiando a Vovó</title>
+  </programme>
+  <programme start="20200824063000 -0300" stop="20200824070000 -0300" channel="Viva">
+    <title lang="pt">Vigiando a Vovó</title>
+  </programme>
+  <programme start="20200824070000 -0300" stop="20200824073000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200824073000 -0300" stop="20200824080000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200824080000 -0300" stop="20200824083000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200824083000 -0300" stop="20200824090000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200824090000 -0300" stop="20200824093000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200824093000 -0300" stop="20200824100000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200824100000 -0300" stop="20200824103000 -0300" channel="Viva">
+    <title lang="pt">Sandy e Júnior</title>
+  </programme>
+  <programme start="20200824103000 -0300" stop="20200824110000 -0300" channel="Viva">
+    <title lang="pt">A Turma do Didi</title>
+  </programme>
+  <programme start="20200824110000 -0300" stop="20200824123000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200824123000 -0300" stop="20200824130000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200824130000 -0300" stop="20200824133000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200824133000 -0300" stop="20200824143000 -0300" channel="Viva">
+    <title lang="pt">O Clone</title>
+  </programme>
+  <programme start="20200824143000 -0300" stop="20200824153000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200824153000 -0300" stop="20200824163000 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200824163000 -0300" stop="20200824174500 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200824174500 -0300" stop="20200824193000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200824193000 -0300" stop="20200824200000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200824200000 -0300" stop="20200824203000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200824203000 -0300" stop="20200824210000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200824210000 -0300" stop="20200824220000 -0300" channel="Viva">
+    <title lang="pt">Os Caras de Pau</title>
+  </programme>
+  <programme start="20200824220000 -0300" stop="20200824223000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200824223000 -0300" stop="20200825000000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200825000000 -0300" stop="20200825004500 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200825004500 -0300" stop="20200825013000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200825013000 -0300" stop="20200825023000 -0300" channel="Viva">
+    <title lang="pt">Novamente Apaixonados</title>
+  </programme>
+  <programme start="20200825023000 -0300" stop="20200825030000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200825030000 -0300" stop="20200825033000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200825033000 -0300" stop="20200825040000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200825040000 -0300" stop="20200825043000 -0300" channel="Viva">
+    <title lang="pt">As Vilãs que Amamos</title>
+  </programme>
+  <programme start="20200825043000 -0300" stop="20200825050000 -0300" channel="Viva">
+    <title lang="pt">As Vilãs que Amamos</title>
+  </programme>
+  <programme start="20200825050000 -0300" stop="20200825060000 -0300" channel="Viva">
+    <title lang="pt">Entre o Céu e a Terra</title>
+  </programme>
+  <programme start="20200825060000 -0300" stop="20200825063000 -0300" channel="Viva">
+    <title lang="pt">Viver com Fé</title>
+  </programme>
+  <programme start="20200825063000 -0300" stop="20200825070000 -0300" channel="Viva">
+    <title lang="pt">Viver com Fé</title>
+  </programme>
+  <programme start="20200825070000 -0300" stop="20200825073000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200825073000 -0300" stop="20200825080000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200825080000 -0300" stop="20200825083000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200825083000 -0300" stop="20200825090000 -0300" channel="Viva">
+    <title lang="pt">A Feiticeira</title>
+  </programme>
+  <programme start="20200825090000 -0300" stop="20200825093000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200825093000 -0300" stop="20200825100000 -0300" channel="Viva">
+    <title lang="pt">Jeannie é um Gênio</title>
+  </programme>
+  <programme start="20200825100000 -0300" stop="20200825103000 -0300" channel="Viva">
+    <title lang="pt">Sandy e Júnior</title>
+  </programme>
+  <programme start="20200825103000 -0300" stop="20200825110000 -0300" channel="Viva">
+    <title lang="pt">A Turma do Didi</title>
+  </programme>
+  <programme start="20200825110000 -0300" stop="20200825123000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200825123000 -0300" stop="20200825130000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200825130000 -0300" stop="20200825143000 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200825143000 -0300" stop="20200825153000 -0300" channel="Viva">
+    <title lang="pt">Brega &amp; Chique</title>
+  </programme>
+  <programme start="20200825153000 -0300" stop="20200825163000 -0300" channel="Viva">
+    <title lang="pt">Chocolate com Pimenta</title>
+  </programme>
+  <programme start="20200825163000 -0300" stop="20200825174500 -0300" channel="Viva">
+    <title lang="pt">Malhação 2008</title>
+  </programme>
+  <programme start="20200825174500 -0300" stop="20200825193000 -0300" channel="Viva">
+    <title lang="pt">Os Caras de Pau</title>
+  </programme>
+  <programme start="20200825193000 -0300" stop="20200825200000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200825200000 -0300" stop="20200825203000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200825203000 -0300" stop="20200825220000 -0300" channel="Viva">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+  </programme>
+  <programme start="20200825220000 -0300" stop="20200825223000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200825223000 -0300" stop="20200826000000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20200819152300 -0300" stop="20200819161600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200819161600 -0300" stop="20200819170800 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200819170800 -0300" stop="20200819180000 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200819180000 -0300" stop="20200819182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200819182600 -0300" stop="20200819185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200819185200 -0300" stop="20200819194300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200819194300 -0300" stop="20200819203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200819203400 -0300" stop="20200819210000 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200819210000 -0300" stop="20200819212600 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200819212600 -0300" stop="20200819221600 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200819221600 -0300" stop="20200819230700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200819230700 -0300" stop="20200819235800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200819235800 -0300" stop="20200820004900 -0300" channel="Animal Planet">
+    <title lang="pt">O Caçador de Crocodilos</title>
+  </programme>
+  <programme start="20200820004900 -0300" stop="20200820014200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200820014200 -0300" stop="20200820023500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200820023500 -0300" stop="20200820030200 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200820030200 -0300" stop="20200820032800 -0300" channel="Animal Planet">
+    <title lang="pt">Pequenos Gigantes da Natureza</title>
+  </programme>
+  <programme start="20200820032800 -0300" stop="20200820042100 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200820042100 -0300" stop="20200820051400 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200820051400 -0300" stop="20200820060100 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200820060100 -0300" stop="20200820062400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200820062400 -0300" stop="20200820064700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200820064700 -0300" stop="20200820074700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200820074700 -0300" stop="20200820083800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200820083800 -0300" stop="20200820092900 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200820092900 -0300" stop="20200820102000 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20200820102000 -0300" stop="20200820111100 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20200820111100 -0300" stop="20200820120200 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado</title>
+  </programme>
+  <programme start="20200820120200 -0300" stop="20200820125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200820125400 -0300" stop="20200820134500 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200820134500 -0300" stop="20200820143600 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200820143600 -0300" stop="20200820152700 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200820152700 -0300" stop="20200820155200 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso</title>
+  </programme>
+  <programme start="20200820155200 -0300" stop="20200820161800 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso</title>
+  </programme>
+  <programme start="20200820161800 -0300" stop="20200820164300 -0300" channel="Animal Planet">
+    <title lang="pt">S.O.S. Castores</title>
+  </programme>
+  <programme start="20200820164300 -0300" stop="20200820170900 -0300" channel="Animal Planet">
+    <title lang="pt">S.O.S. Castores</title>
+  </programme>
+  <programme start="20200820170900 -0300" stop="20200820180000 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200820180000 -0300" stop="20200820182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200820182600 -0300" stop="20200820185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200820185200 -0300" stop="20200820194300 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200820194300 -0300" stop="20200820203400 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200820203400 -0300" stop="20200820212500 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200820212500 -0300" stop="20200820221600 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200820221600 -0300" stop="20200820230700 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200820230700 -0300" stop="20200820235800 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200820235800 -0300" stop="20200821004900 -0300" channel="Animal Planet">
+    <title lang="pt">Filhotes: Desafiando Perigos</title>
+  </programme>
+  <programme start="20200821004900 -0300" stop="20200821014200 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200821014200 -0300" stop="20200821023500 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200821023500 -0300" stop="20200821032900 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200821032900 -0300" stop="20200821042300 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200821042300 -0300" stop="20200821051700 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200821051700 -0300" stop="20200821061100 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200821061100 -0300" stop="20200821063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200821063400 -0300" stop="20200821065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200821065700 -0300" stop="20200821074700 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20200821074700 -0300" stop="20200821083800 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20200821083800 -0300" stop="20200821092900 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20200821092900 -0300" stop="20200821102000 -0300" channel="Animal Planet">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20200821102000 -0300" stop="20200821111100 -0300" channel="Animal Planet">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20200821111100 -0300" stop="20200821120200 -0300" channel="Animal Planet">
+    <title lang="pt">Família ao Resgate</title>
+  </programme>
+  <programme start="20200821120200 -0300" stop="20200821125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200821125400 -0300" stop="20200821134500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200821134500 -0300" stop="20200821143600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200821143600 -0300" stop="20200821152700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200821152700 -0300" stop="20200821161800 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+  </programme>
+  <programme start="20200821161800 -0300" stop="20200821170900 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+  </programme>
+  <programme start="20200821170900 -0300" stop="20200821180000 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+  </programme>
+  <programme start="20200821180000 -0300" stop="20200821182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200821182600 -0300" stop="20200821185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200821185200 -0300" stop="20200821194300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200821194300 -0300" stop="20200821203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200821203400 -0300" stop="20200821212500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200821212500 -0300" stop="20200821221600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200821221600 -0300" stop="20200821230700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200821230700 -0300" stop="20200821235800 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200821235800 -0300" stop="20200822004900 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200822004900 -0300" stop="20200822014200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200822014200 -0300" stop="20200822023500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200822023500 -0300" stop="20200822032900 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200822032900 -0300" stop="20200822042300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200822042300 -0300" stop="20200822051700 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200822051700 -0300" stop="20200822061100 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200822061100 -0300" stop="20200822063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200822063400 -0300" stop="20200822065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200822065700 -0300" stop="20200822074700 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+  </programme>
+  <programme start="20200822074700 -0300" stop="20200822083800 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+  </programme>
+  <programme start="20200822083800 -0300" stop="20200822092900 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200822092900 -0300" stop="20200822102000 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200822102000 -0300" stop="20200822111100 -0300" channel="Animal Planet">
+    <title lang="pt">Vida Selvagem com Evan</title>
+  </programme>
+  <programme start="20200822111100 -0300" stop="20200822120200 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200822120200 -0300" stop="20200822125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200822125400 -0300" stop="20200822134500 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+  </programme>
+  <programme start="20200822134500 -0300" stop="20200822143600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca ao Extremo</title>
+  </programme>
+  <programme start="20200822143600 -0300" stop="20200822152700 -0300" channel="Animal Planet">
+    <title lang="pt">Jeremy Wade: Rios Grandiosos</title>
+  </programme>
+  <programme start="20200822152700 -0300" stop="20200822161800 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido no Sudeste Asiático</title>
+  </programme>
+  <programme start="20200822161800 -0300" stop="20200822170900 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Ásia</title>
+  </programme>
+  <programme start="20200822170900 -0300" stop="20200822180000 -0300" channel="Animal Planet">
+    <title lang="pt">Espiões da Natureza</title>
+  </programme>
+  <programme start="20200822180000 -0300" stop="20200822185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida</title>
+  </programme>
+  <programme start="20200822185200 -0300" stop="20200822194300 -0300" channel="Animal Planet">
+    <title lang="pt">As Quatro Estações da Terra</title>
+  </programme>
+  <programme start="20200822194300 -0300" stop="20200822203400 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200822203400 -0300" stop="20200822212500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200822212500 -0300" stop="20200822221600 -0300" channel="Animal Planet">
+    <title lang="pt">Animais das Montanhas</title>
+  </programme>
+  <programme start="20200822221600 -0300" stop="20200822230700 -0300" channel="Animal Planet">
+    <title lang="pt">Cidades: A Vida Selvagem</title>
+  </programme>
+  <programme start="20200822230700 -0300" stop="20200822235800 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico de San Diego</title>
+  </programme>
+  <programme start="20200822235800 -0300" stop="20200823004900 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200823004900 -0300" stop="20200823014200 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200823014200 -0300" stop="20200823023500 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200823023500 -0300" stop="20200823032900 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200823032900 -0300" stop="20200823042300 -0300" channel="Animal Planet">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20200823042300 -0300" stop="20200823051700 -0300" channel="Animal Planet">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20200823051700 -0300" stop="20200823061100 -0300" channel="Animal Planet">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+  </programme>
+  <programme start="20200823061100 -0300" stop="20200823063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200823063400 -0300" stop="20200823065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200823065700 -0300" stop="20200823072200 -0300" channel="Animal Planet">
+    <title lang="pt">Emergência Pet</title>
+  </programme>
+  <programme start="20200823072200 -0300" stop="20200823074700 -0300" channel="Animal Planet">
+    <title lang="pt">Emergência Pet</title>
+  </programme>
+  <programme start="20200823074700 -0300" stop="20200823083800 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200823083800 -0300" stop="20200823092900 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200823092900 -0300" stop="20200823102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200823102000 -0300" stop="20200823111100 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200823111100 -0300" stop="20200823120200 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem</title>
+  </programme>
+  <programme start="20200823120200 -0300" stop="20200823125400 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200823125400 -0300" stop="20200823134500 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200823134500 -0300" stop="20200823143600 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinário das Montanhas</title>
+  </programme>
+  <programme start="20200823143600 -0300" stop="20200823152700 -0300" channel="Animal Planet">
+    <title lang="pt">Espiões da Natureza</title>
+  </programme>
+  <programme start="20200823152700 -0300" stop="20200823161800 -0300" channel="Animal Planet">
+    <title lang="pt">Predadores</title>
+  </programme>
+  <programme start="20200823161800 -0300" stop="20200823170900 -0300" channel="Animal Planet">
+    <title lang="pt">Serengeti</title>
+  </programme>
+  <programme start="20200823170900 -0300" stop="20200823180000 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Azul</title>
+  </programme>
+  <programme start="20200823180000 -0300" stop="20200823182600 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200823182600 -0300" stop="20200823185200 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200823185200 -0300" stop="20200823194300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200823194300 -0300" stop="20200823203400 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200823203400 -0300" stop="20200823212500 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200823212500 -0300" stop="20200823221600 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20200823221600 -0300" stop="20200823230700 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20200823230700 -0300" stop="20200823235800 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore</title>
+  </programme>
+  <programme start="20200823235800 -0300" stop="20200824002300 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200824002300 -0300" stop="20200824004900 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Espetaculares</title>
+  </programme>
+  <programme start="20200824004900 -0300" stop="20200824014200 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200824014200 -0300" stop="20200824023500 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200824023500 -0300" stop="20200824032900 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200824032900 -0300" stop="20200824042300 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200824042300 -0300" stop="20200824051700 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200824051700 -0300" stop="20200824061100 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200824061100 -0300" stop="20200824063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200824063400 -0300" stop="20200824065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200824065700 -0300" stop="20200824074700 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20200824074700 -0300" stop="20200824083800 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20200824083800 -0300" stop="20200824092900 -0300" channel="Animal Planet">
+    <title lang="pt">A Família Irwin</title>
+  </programme>
+  <programme start="20200824092900 -0300" stop="20200824102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200824102000 -0300" stop="20200824111100 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200824111100 -0300" stop="20200824120200 -0300" channel="Animal Planet">
+    <title lang="pt">O Aquário</title>
+  </programme>
+  <programme start="20200824120200 -0300" stop="20200824125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200824125400 -0300" stop="20200824134500 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200824134500 -0300" stop="20200824143600 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200824143600 -0300" stop="20200824152700 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200824152700 -0300" stop="20200824161800 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca ao Extremo</title>
+  </programme>
+  <programme start="20200824161800 -0300" stop="20200824170900 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca ao Extremo</title>
+  </programme>
+  <programme start="20200824170900 -0300" stop="20200824180000 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca ao Extremo</title>
+  </programme>
+  <programme start="20200824180000 -0300" stop="20200824182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200824182600 -0300" stop="20200824185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200824185200 -0300" stop="20200824194300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+  </programme>
+  <programme start="20200824194300 -0300" stop="20200824203400 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200824203400 -0300" stop="20200824212500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200824212500 -0300" stop="20200824221600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200824221600 -0300" stop="20200824230700 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200824230700 -0300" stop="20200824235800 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200824235800 -0300" stop="20200825004900 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200825004900 -0300" stop="20200825014200 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200825014200 -0300" stop="20200825023500 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200825023500 -0300" stop="20200825032900 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200825032900 -0300" stop="20200825042300 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20200825042300 -0300" stop="20200825051700 -0300" channel="Animal Planet">
+    <title lang="pt">Patrulheiros da Natureza</title>
+  </programme>
+  <programme start="20200825051700 -0300" stop="20200825061100 -0300" channel="Animal Planet">
+    <title lang="pt">SOS VET</title>
+  </programme>
+  <programme start="20200825061100 -0300" stop="20200825063400 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825063400 -0300" stop="20200825065700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825065700 -0300" stop="20200825074700 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200825074700 -0300" stop="20200825083800 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200825083800 -0300" stop="20200825092900 -0300" channel="Animal Planet">
+    <title lang="pt">Um Lar para Pets</title>
+  </programme>
+  <programme start="20200825092900 -0300" stop="20200825095500 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825095500 -0300" stop="20200825102000 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825102000 -0300" stop="20200825104600 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825104600 -0300" stop="20200825111100 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825111100 -0300" stop="20200825113700 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825113700 -0300" stop="20200825120200 -0300" channel="Animal Planet">
+    <title lang="pt">O Incrível Mundo Animal</title>
+  </programme>
+  <programme start="20200825120200 -0300" stop="20200825125400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200825125400 -0300" stop="20200825134500 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200825134500 -0300" stop="20200825143600 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200825143600 -0300" stop="20200825152700 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na África</title>
+  </programme>
+  <programme start="20200825152700 -0300" stop="20200825161800 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem</title>
+  </programme>
+  <programme start="20200825161800 -0300" stop="20200825170900 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem</title>
+  </programme>
+  <programme start="20200825170900 -0300" stop="20200825180000 -0300" channel="Animal Planet">
+    <title lang="pt">Indochina Selvagem</title>
+  </programme>
+  <programme start="20200825180000 -0300" stop="20200825182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20200825182600 -0300" stop="20200825185200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida No Azul</title>
+  </programme>
+  <programme start="20200825185200 -0300" stop="20200825194300 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante</title>
+  </programme>
+  <programme start="20200825194300 -0300" stop="20200825203400 -0300" channel="Animal Planet">
+    <title lang="pt">Dinastias</title>
+  </programme>
+  <programme start="20200825203400 -0300" stop="20200825212500 -0300" channel="Animal Planet">
+    <title lang="pt">Lei da Sobrevivência</title>
+  </programme>
+  <programme start="20200825212500 -0300" stop="20200825221600 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra</title>
+  </programme>
+  <programme start="20200825221600 -0300" stop="20200825230700 -0300" channel="Animal Planet">
+    <title lang="pt">Extinto ou Não?</title>
+  </programme>
+  <programme start="20200825230700 -0300" stop="20200825235800 -0300" channel="Animal Planet">
+    <title lang="pt">Cara a Cara com as Feras</title>
+  </programme>
+  <programme start="20200825235800 -0300" stop="20200826004900 -0300" channel="Animal Planet">
+    <title lang="pt">O Zoológico</title>
+  </programme>
+  <programme start="20200819153600 -0300" stop="20200819160000 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200819160000 -0300" stop="20200819162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200819162400 -0300" stop="20200819171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200819171200 -0300" stop="20200819180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200819180000 -0300" stop="20200819184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Baía de Bristol</title>
+  </programme>
+  <programme start="20200819184800 -0300" stop="20200819193600 -0300" channel="Discovery Theater">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+  </programme>
+  <programme start="20200819193600 -0300" stop="20200819200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200819200000 -0300" stop="20200819202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200819202400 -0300" stop="20200819211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200819211200 -0300" stop="20200819220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200819220000 -0300" stop="20200819222400 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200819222400 -0300" stop="20200819224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200819224800 -0300" stop="20200819233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+  </programme>
+  <programme start="20200819233600 -0300" stop="20200820002400 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+  </programme>
+  <programme start="20200820002400 -0300" stop="20200820011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200820011200 -0300" stop="20200820020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+  </programme>
+  <programme start="20200820020000 -0300" stop="20200820024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200820024800 -0300" stop="20200820031200 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200820031200 -0300" stop="20200820033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200820033600 -0300" stop="20200820042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+  </programme>
+  <programme start="20200820042400 -0300" stop="20200820051200 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+  </programme>
+  <programme start="20200820051200 -0300" stop="20200820060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200820060000 -0300" stop="20200820064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+  </programme>
+  <programme start="20200820064800 -0300" stop="20200820073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200820073600 -0300" stop="20200820082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+  </programme>
+  <programme start="20200820082400 -0300" stop="20200820091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20200820091200 -0300" stop="20200820100000 -0300" channel="Discovery Theater">
+    <title lang="pt">As Mega Máquinas do Alasca</title>
+  </programme>
+  <programme start="20200820100000 -0300" stop="20200820104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+  </programme>
+  <programme start="20200820104800 -0300" stop="20200820113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200820113600 -0300" stop="20200820122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200820122400 -0300" stop="20200820131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200820131200 -0300" stop="20200820140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+  </programme>
+  <programme start="20200820140000 -0300" stop="20200820144800 -0300" channel="Discovery Theater">
+    <title lang="pt">Monstros da Montanha</title>
+  </programme>
+  <programme start="20200820144800 -0300" stop="20200820153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Resgate no Everest</title>
+  </programme>
+  <programme start="20200820153600 -0300" stop="20200820162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+  </programme>
+  <programme start="20200820162400 -0300" stop="20200820171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+  </programme>
+  <programme start="20200820171200 -0300" stop="20200820180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200820180000 -0300" stop="20200820184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200820184800 -0300" stop="20200820193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200820193600 -0300" stop="20200820202400 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+  </programme>
+  <programme start="20200820202400 -0300" stop="20200820204800 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200820204800 -0300" stop="20200820211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200820211200 -0300" stop="20200820213600 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200820213600 -0300" stop="20200820220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200820220000 -0300" stop="20200820224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200820224800 -0300" stop="20200820233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200820233600 -0300" stop="20200821002400 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+  </programme>
+  <programme start="20200821002400 -0300" stop="20200821011200 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+  </programme>
+  <programme start="20200821011200 -0300" stop="20200821020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200821020000 -0300" stop="20200821022400 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200821022400 -0300" stop="20200821024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200821024800 -0300" stop="20200821033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200821033600 -0300" stop="20200821042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200821042400 -0300" stop="20200821051200 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+  </programme>
+  <programme start="20200821051200 -0300" stop="20200821060000 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+  </programme>
+  <programme start="20200821060000 -0300" stop="20200821064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200821064800 -0300" stop="20200821073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200821073600 -0300" stop="20200821080000 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200821080000 -0300" stop="20200821082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200821082400 -0300" stop="20200821091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+  </programme>
+  <programme start="20200821091200 -0300" stop="20200821100000 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+  </programme>
+  <programme start="20200821100000 -0300" stop="20200821104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200821104800 -0300" stop="20200821113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+  </programme>
+  <programme start="20200821113600 -0300" stop="20200821122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200821122400 -0300" stop="20200821131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+  </programme>
+  <programme start="20200821131200 -0300" stop="20200821140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20200821140000 -0300" stop="20200821144800 -0300" channel="Discovery Theater">
+    <title lang="pt">As Mega Máquinas do Alasca</title>
+  </programme>
+  <programme start="20200821144800 -0300" stop="20200821153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+  </programme>
+  <programme start="20200821153600 -0300" stop="20200821162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200821162400 -0300" stop="20200821171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200821171200 -0300" stop="20200821180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200821180000 -0300" stop="20200821184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+  </programme>
+  <programme start="20200821184800 -0300" stop="20200821193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Monstros da Montanha</title>
+  </programme>
+  <programme start="20200821193600 -0300" stop="20200821200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200821200000 -0300" stop="20200821202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200821202400 -0300" stop="20200821211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+  </programme>
+  <programme start="20200821211200 -0300" stop="20200821220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200821220000 -0300" stop="20200821224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200821224800 -0300" stop="20200821233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Smash Lab - Ciência da Destruição</title>
+  </programme>
+  <programme start="20200821233600 -0300" stop="20200822002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+  </programme>
+  <programme start="20200822002400 -0300" stop="20200822011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200822011200 -0300" stop="20200822020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Como Funciona a Terra</title>
+  </programme>
+  <programme start="20200822020000 -0300" stop="20200822024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200822024800 -0300" stop="20200822033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200822033600 -0300" stop="20200822042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Smash Lab - Ciência da Destruição</title>
+  </programme>
+  <programme start="20200822042400 -0300" stop="20200822051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+  </programme>
+  <programme start="20200822051200 -0300" stop="20200822060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200822060000 -0300" stop="20200822064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Como Funciona a Terra</title>
+  </programme>
+  <programme start="20200822064800 -0300" stop="20200822071200 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200822071200 -0300" stop="20200822073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200822073600 -0300" stop="20200822082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200822082400 -0300" stop="20200822091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200822091200 -0300" stop="20200822100000 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+  </programme>
+  <programme start="20200822100000 -0300" stop="20200822104800 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+  </programme>
+  <programme start="20200822104800 -0300" stop="20200822113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200822113600 -0300" stop="20200822122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200822122400 -0300" stop="20200822124800 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200822124800 -0300" stop="20200822131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200822131200 -0300" stop="20200822140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+  </programme>
+  <programme start="20200822140000 -0300" stop="20200822144800 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+  </programme>
+  <programme start="20200822144800 -0300" stop="20200822153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200822153600 -0300" stop="20200822162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+  </programme>
+  <programme start="20200822162400 -0300" stop="20200822171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200822171200 -0300" stop="20200822180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+  </programme>
+  <programme start="20200822180000 -0300" stop="20200822184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20200822184800 -0300" stop="20200822191200 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+  </programme>
+  <programme start="20200822191200 -0300" stop="20200822193600 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200822193600 -0300" stop="20200822200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200822200000 -0300" stop="20200822202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200822202400 -0300" stop="20200822211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200822211200 -0300" stop="20200822220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200822220000 -0300" stop="20200822224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200822224800 -0300" stop="20200822233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Baía de Bristol</title>
+  </programme>
+  <programme start="20200822233600 -0300" stop="20200823002400 -0300" channel="Discovery Theater">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+  </programme>
+  <programme start="20200823002400 -0300" stop="20200823011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200823011200 -0300" stop="20200823020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200823020000 -0300" stop="20200823024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200823024800 -0300" stop="20200823033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200823033600 -0300" stop="20200823042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Baía de Bristol</title>
+  </programme>
+  <programme start="20200823042400 -0300" stop="20200823051200 -0300" channel="Discovery Theater">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+  </programme>
+  <programme start="20200823051200 -0300" stop="20200823060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200823060000 -0300" stop="20200823064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200823064800 -0300" stop="20200823073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200823073600 -0300" stop="20200823082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200823082400 -0300" stop="20200823091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Smash Lab - Ciência da Destruição</title>
+  </programme>
+  <programme start="20200823091200 -0300" stop="20200823100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+  </programme>
+  <programme start="20200823100000 -0300" stop="20200823104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200823104800 -0300" stop="20200823113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Como Funciona a Terra</title>
+  </programme>
+  <programme start="20200823113600 -0300" stop="20200823120000 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200823120000 -0300" stop="20200823122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200823122400 -0300" stop="20200823131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200823131200 -0300" stop="20200823140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200823140000 -0300" stop="20200823144800 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+  </programme>
+  <programme start="20200823144800 -0300" stop="20200823153600 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+  </programme>
+  <programme start="20200823153600 -0300" stop="20200823162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200823162400 -0300" stop="20200823171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200823171200 -0300" stop="20200823173600 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200823173600 -0300" stop="20200823180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Vida no Lago</title>
+  </programme>
+  <programme start="20200823180000 -0300" stop="20200823184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+  </programme>
+  <programme start="20200823184800 -0300" stop="20200823193600 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+  </programme>
+  <programme start="20200823193600 -0300" stop="20200823202400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200823202400 -0300" stop="20200823211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+  </programme>
+  <programme start="20200823211200 -0300" stop="20200823220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+  </programme>
+  <programme start="20200823220000 -0300" stop="20200823224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200823224800 -0300" stop="20200823233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200823233600 -0300" stop="20200824002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200824002400 -0300" stop="20200824011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+  </programme>
+  <programme start="20200824011200 -0300" stop="20200824013600 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200824013600 -0300" stop="20200824020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200824020000 -0300" stop="20200824024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+  </programme>
+  <programme start="20200824024800 -0300" stop="20200824033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200824033600 -0300" stop="20200824042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200824042400 -0300" stop="20200824051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200824051200 -0300" stop="20200824060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+  </programme>
+  <programme start="20200824060000 -0300" stop="20200824062400 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200824062400 -0300" stop="20200824064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200824064800 -0300" stop="20200824073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200824073600 -0300" stop="20200824082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200824082400 -0300" stop="20200824091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Baía de Bristol</title>
+  </programme>
+  <programme start="20200824091200 -0300" stop="20200824100000 -0300" channel="Discovery Theater">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+  </programme>
+  <programme start="20200824100000 -0300" stop="20200824104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200824104800 -0300" stop="20200824113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200824113600 -0300" stop="20200824122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200824122400 -0300" stop="20200824131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200824131200 -0300" stop="20200824140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Smash Lab - Ciência da Destruição</title>
+  </programme>
+  <programme start="20200824140000 -0300" stop="20200824144800 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+  </programme>
+  <programme start="20200824144800 -0300" stop="20200824153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20200824153600 -0300" stop="20200824162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Como Funciona a Terra</title>
+  </programme>
+  <programme start="20200824162400 -0300" stop="20200824164800 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200824164800 -0300" stop="20200824171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Paraíso dos Chimpanzés</title>
+  </programme>
+  <programme start="20200824171200 -0300" stop="20200824180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200824180000 -0300" stop="20200824184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Ciência Viva</title>
+  </programme>
+  <programme start="20200824184800 -0300" stop="20200824193600 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+  </programme>
+  <programme start="20200824193600 -0300" stop="20200824200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200824200000 -0300" stop="20200824202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200824202400 -0300" stop="20200824211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200824211200 -0300" stop="20200824220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200824220000 -0300" stop="20200824224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200824224800 -0300" stop="20200824233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+  </programme>
+  <programme start="20200824233600 -0300" stop="20200825002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Monstros da Montanha</title>
+  </programme>
+  <programme start="20200825002400 -0300" stop="20200825011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Resgate no Everest</title>
+  </programme>
+  <programme start="20200825011200 -0300" stop="20200825020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+  </programme>
+  <programme start="20200825020000 -0300" stop="20200825024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200825024800 -0300" stop="20200825033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200825033600 -0300" stop="20200825042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+  </programme>
+  <programme start="20200825042400 -0300" stop="20200825051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Monstros da Montanha</title>
+  </programme>
+  <programme start="20200825051200 -0300" stop="20200825060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Resgate no Everest</title>
+  </programme>
+  <programme start="20200825060000 -0300" stop="20200825064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+  </programme>
+  <programme start="20200825064800 -0300" stop="20200825073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+  </programme>
+  <programme start="20200825073600 -0300" stop="20200825082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200825082400 -0300" stop="20200825091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20200825091200 -0300" stop="20200825100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200825100000 -0300" stop="20200825104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+  </programme>
+  <programme start="20200825104800 -0300" stop="20200825111200 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200825111200 -0300" stop="20200825113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20200825113600 -0300" stop="20200825122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+  </programme>
+  <programme start="20200825122400 -0300" stop="20200825131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20200825131200 -0300" stop="20200825140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Baía de Bristol</title>
+  </programme>
+  <programme start="20200825140000 -0300" stop="20200825144800 -0300" channel="Discovery Theater">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+  </programme>
+  <programme start="20200825144800 -0300" stop="20200825153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20200825153600 -0300" stop="20200825162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200825162400 -0300" stop="20200825171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200825171200 -0300" stop="20200825180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200825180000 -0300" stop="20200825184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Smash Lab - Ciência da Destruição</title>
+  </programme>
+  <programme start="20200825184800 -0300" stop="20200825193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+  </programme>
+  <programme start="20200825193600 -0300" stop="20200825200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200825200000 -0300" stop="20200825202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+  </programme>
+  <programme start="20200825202400 -0300" stop="20200825211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Como Funciona a Terra</title>
+  </programme>
+  <programme start="20200825211200 -0300" stop="20200825220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+  </programme>
+  <programme start="20200825220000 -0300" stop="20200825224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+  </programme>
+  <programme start="20200825224800 -0300" stop="20200825233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20200825233600 -0300" stop="20200826002400 -0300" channel="Discovery Theater">
+    <title lang="pt">As Mega Máquinas do Alasca</title>
+  </programme>
+  <programme start="20200819152000 -0300" stop="20200819161000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200819161000 -0300" stop="20200819170000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200819170000 -0300" stop="20200819174500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200819174500 -0300" stop="20200819174700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200819174700 -0300" stop="20200819183700 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200819183700 -0300" stop="20200819184000 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200819184000 -0300" stop="20200819193000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200819193000 -0300" stop="20200819202000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200819202000 -0300" stop="20200819211000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200819211000 -0300" stop="20200819220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200819220000 -0300" stop="20200819225000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200819225000 -0300" stop="20200819231500 -0300" channel="E!">
+    <title lang="pt">Cyrus vs Cyrus</title>
+  </programme>
+  <programme start="20200819231500 -0300" stop="20200819233500 -0300" channel="E!">
+    <title lang="pt">Cyrus vs Cyrus</title>
+  </programme>
+  <programme start="20200819233500 -0300" stop="20200820000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200820000000 -0300" stop="20200820030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20200820030000 -0300" stop="20200820034500 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200820034500 -0300" stop="20200820041000 -0300" channel="E!">
+    <title lang="pt">Cyrus vs Cyrus</title>
+  </programme>
+  <programme start="20200820041000 -0300" stop="20200820043000 -0300" channel="E!">
+    <title lang="pt">Cyrus vs Cyrus</title>
+  </programme>
+  <programme start="20200820043000 -0300" stop="20200820051500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200820051500 -0300" stop="20200820060000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200820060000 -0300" stop="20200820064500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200820064500 -0300" stop="20200820073000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200820073000 -0300" stop="20200820081500 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200820081500 -0300" stop="20200820090000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200820090000 -0300" stop="20200820093000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+  </programme>
+  <programme start="20200820093000 -0300" stop="20200820102000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200820102000 -0300" stop="20200820111000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200820111000 -0300" stop="20200820120000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200820120000 -0300" stop="20200820125000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200820125000 -0300" stop="20200820134000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200820134000 -0300" stop="20200820143000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200820143000 -0300" stop="20200820152000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200820152000 -0300" stop="20200820161000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200820161000 -0300" stop="20200820170000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200820170000 -0300" stop="20200820174500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200820174500 -0300" stop="20200820174700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200820174700 -0300" stop="20200820183700 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200820183700 -0300" stop="20200820184000 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200820184000 -0300" stop="20200820193000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200820193000 -0300" stop="20200820202000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200820202000 -0300" stop="20200820211000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200820211000 -0300" stop="20200820220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200820220000 -0300" stop="20200820225000 -0300" channel="E!">
+    <title lang="pt">Born to Fashion</title>
+  </programme>
+  <programme start="20200820225000 -0300" stop="20200820233500 -0300" channel="E!">
+    <title lang="pt">Born to Fashion</title>
+  </programme>
+  <programme start="20200820233500 -0300" stop="20200821000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200821000000 -0300" stop="20200821030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20200821030000 -0300" stop="20200821034500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200821034500 -0300" stop="20200821043000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200821043000 -0300" stop="20200821051500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200821051500 -0300" stop="20200821060000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200821060000 -0300" stop="20200821064500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200821064500 -0300" stop="20200821073000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200821073000 -0300" stop="20200821081500 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200821081500 -0300" stop="20200821090000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200821090000 -0300" stop="20200821093000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+  </programme>
+  <programme start="20200821093000 -0300" stop="20200821102000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200821102000 -0300" stop="20200821111000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200821111000 -0300" stop="20200821120000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200821120000 -0300" stop="20200821125000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200821125000 -0300" stop="20200821134000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200821134000 -0300" stop="20200821143000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200821143000 -0300" stop="20200821152000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200821152000 -0300" stop="20200821161000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200821161000 -0300" stop="20200821170000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200821170000 -0300" stop="20200821174500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200821174500 -0300" stop="20200821174700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200821174700 -0300" stop="20200821183700 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200821183700 -0300" stop="20200821184000 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200821184000 -0300" stop="20200821193000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200821193000 -0300" stop="20200821202000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200821202000 -0300" stop="20200821211000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200821211000 -0300" stop="20200821230000 -0300" channel="E!">
+    <title lang="pt">Mamãe - Operação Balada</title>
+  </programme>
+  <programme start="20200821230000 -0300" stop="20200821233000 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200821233000 -0300" stop="20200822000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200822000000 -0300" stop="20200822030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20200822030000 -0300" stop="20200822034500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200822034500 -0300" stop="20200822043000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200822043000 -0300" stop="20200822051500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200822051500 -0300" stop="20200822060000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200822060000 -0300" stop="20200822064500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200822064500 -0300" stop="20200822073000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200822073000 -0300" stop="20200822081500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200822081500 -0300" stop="20200822090000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200822090000 -0300" stop="20200822093000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+  </programme>
+  <programme start="20200822093000 -0300" stop="20200822102000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200822102000 -0300" stop="20200822111000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200822111000 -0300" stop="20200822120000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200822120000 -0300" stop="20200822125000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200822125000 -0300" stop="20200822134000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200822134000 -0300" stop="20200822143000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200822143000 -0300" stop="20200822152000 -0300" channel="E!">
+    <title lang="pt">Project Runway</title>
+  </programme>
+  <programme start="20200822152000 -0300" stop="20200822161000 -0300" channel="E!">
+    <title lang="pt">Project Runway</title>
+  </programme>
+  <programme start="20200822161000 -0300" stop="20200822171000 -0300" channel="E!">
+    <title lang="pt">Born to Fashion</title>
+  </programme>
+  <programme start="20200822171000 -0300" stop="20200822174000 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200822174000 -0300" stop="20200822192000 -0300" channel="E!">
+    <title lang="pt">Popstar: Sem Parar, Sem Limites</title>
+  </programme>
+  <programme start="20200822192000 -0300" stop="20200822211000 -0300" channel="E!">
+    <title lang="pt">Mamãe - Operação Balada</title>
+  </programme>
+  <programme start="20200822211000 -0300" stop="20200822225000 -0300" channel="E!">
+    <title lang="pt">Eurotrip - Passaporte para a Confusão</title>
+  </programme>
+  <programme start="20200822225000 -0300" stop="20200822233500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200822233500 -0300" stop="20200823000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200823000000 -0300" stop="20200823030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20200823030000 -0300" stop="20200823034500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823034500 -0300" stop="20200823043000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823043000 -0300" stop="20200823051500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823051500 -0300" stop="20200823060000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200823060000 -0300" stop="20200823064500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823064500 -0300" stop="20200823073000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823073000 -0300" stop="20200823081500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823081500 -0300" stop="20200823090000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200823090000 -0300" stop="20200823093000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+  </programme>
+  <programme start="20200823093000 -0300" stop="20200823102000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200823102000 -0300" stop="20200823111000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200823111000 -0300" stop="20200823120000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200823120000 -0300" stop="20200823125000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200823125000 -0300" stop="20200823134000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200823134000 -0300" stop="20200823143000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200823143000 -0300" stop="20200823152000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200823152000 -0300" stop="20200823161000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200823161000 -0300" stop="20200823170000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200823170000 -0300" stop="20200823175000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200823175000 -0300" stop="20200823184000 -0300" channel="E!">
+    <title lang="pt">Born to Fashion</title>
+  </programme>
+  <programme start="20200823184000 -0300" stop="20200823192500 -0300" channel="E!">
+    <title lang="pt">Born to Fashion</title>
+  </programme>
+  <programme start="20200823192500 -0300" stop="20200823211000 -0300" channel="E!">
+    <title lang="pt">Eurotrip - Passaporte para a Confusão</title>
+  </programme>
+  <programme start="20200823211000 -0300" stop="20200823231500 -0300" channel="E!">
+    <title lang="pt">American Pie: O Reencontro</title>
+  </programme>
+  <programme start="20200823231500 -0300" stop="20200823233500 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200823233500 -0300" stop="20200824000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200824000000 -0300" stop="20200824030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20200824030000 -0300" stop="20200824034500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200824034500 -0300" stop="20200824043000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200824043000 -0300" stop="20200824051500 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20200824051500 -0300" stop="20200824060000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200824060000 -0300" stop="20200824064500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200824064500 -0300" stop="20200824073000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200824073000 -0300" stop="20200824081500 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200824081500 -0300" stop="20200824090000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200824090000 -0300" stop="20200824093000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+  </programme>
+  <programme start="20200824093000 -0300" stop="20200824102000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200824102000 -0300" stop="20200824111000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200824111000 -0300" stop="20200824120000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200824120000 -0300" stop="20200824125000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200824125000 -0300" stop="20200824134000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200824134000 -0300" stop="20200824143000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200824143000 -0300" stop="20200824152000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200824152000 -0300" stop="20200824161000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200824161000 -0300" stop="20200824170000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200824170000 -0300" stop="20200824174500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200824174500 -0300" stop="20200824174700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200824174700 -0300" stop="20200824183700 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200824183700 -0300" stop="20200824184000 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200824184000 -0300" stop="20200824193000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200824193000 -0300" stop="20200824202000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200824202000 -0300" stop="20200824211000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200824211000 -0300" stop="20200824220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200824220000 -0300" stop="20200824225000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200824225000 -0300" stop="20200824231500 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200824231500 -0300" stop="20200824233500 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200824233500 -0300" stop="20200825000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200825000000 -0300" stop="20200825030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+  </programme>
+  <programme start="20200825030000 -0300" stop="20200825034500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200825034500 -0300" stop="20200825041000 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200825041000 -0300" stop="20200825043000 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+  </programme>
+  <programme start="20200825043000 -0300" stop="20200825051500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825051500 -0300" stop="20200825060000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825060000 -0300" stop="20200825064500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200825064500 -0300" stop="20200825073000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200825073000 -0300" stop="20200825081500 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200825081500 -0300" stop="20200825090000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200825090000 -0300" stop="20200825093000 -0300" channel="E!">
+    <title lang="pt">Dating #noFilter</title>
+  </programme>
+  <programme start="20200825093000 -0300" stop="20200825102000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200825102000 -0300" stop="20200825111000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200825111000 -0300" stop="20200825120000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825120000 -0300" stop="20200825125000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825125000 -0300" stop="20200825134000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200825134000 -0300" stop="20200825143000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200825143000 -0300" stop="20200825152000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200825152000 -0300" stop="20200825161000 -0300" channel="E!">
+    <title lang="pt">Summer House</title>
+  </programme>
+  <programme start="20200825161000 -0300" stop="20200825170000 -0300" channel="E!">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+  <programme start="20200825170000 -0300" stop="20200825174500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200825174500 -0300" stop="20200825174700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200825174700 -0300" stop="20200825183700 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20200825183700 -0300" stop="20200825184000 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+  </programme>
+  <programme start="20200825184000 -0300" stop="20200825193000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825193000 -0300" stop="20200825202000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825202000 -0300" stop="20200825211000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200825211000 -0300" stop="20200825220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20200825220000 -0300" stop="20200825225000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825225000 -0300" stop="20200825233500 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+  </programme>
+  <programme start="20200825233500 -0300" stop="20200826000000 -0300" channel="E!">
+    <title lang="pt">Luana é de Lua</title>
+  </programme>
+  <programme start="20200819150000 -0300" stop="20200819160000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200819160000 -0300" stop="20200819180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Blackburn Rovers</title>
+  </programme>
+  <programme start="20200819180000 -0300" stop="20200819200000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200819200000 -0300" stop="20200819210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200819210000 -0300" stop="20200819213000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Alan Shearer</title>
+  </programme>
+  <programme start="20200819213000 -0300" stop="20200819223000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200819223000 -0300" stop="20200819233000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200819233000 -0300" stop="20200820003000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200820003000 -0300" stop="20200820013000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200820013000 -0300" stop="20200820023000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200820023000 -0300" stop="20200820033000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200820033000 -0300" stop="20200820043000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200820043000 -0300" stop="20200820063000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Ajax x Wolfsberger</title>
+  </programme>
+  <programme start="20200820063000 -0300" stop="20200820073000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Câmera ESPN</title>
+  </programme>
+  <programme start="20200820073000 -0300" stop="20200820080000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Sonhos Dourados, a Revanche</title>
+  </programme>
+  <programme start="20200820080000 -0300" stop="20200820100000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Ajax x Wolfsberger</title>
+  </programme>
+  <programme start="20200820100000 -0300" stop="20200820110000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200820110000 -0300" stop="20200820120000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200820120000 -0300" stop="20200820140000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200820140000 -0300" stop="20200820150000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200820150000 -0300" stop="20200820160000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200820160000 -0300" stop="20200820180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Blackburn Rovers</title>
+  </programme>
+  <programme start="20200820180000 -0300" stop="20200820200000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200820200000 -0300" stop="20200820210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200820210000 -0300" stop="20200820213000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Alan Shearer</title>
+  </programme>
+  <programme start="20200820213000 -0300" stop="20200820223000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200820223000 -0300" stop="20200820233000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200820233000 -0300" stop="20200821000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200821000000 -0300" stop="20200821010000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200821010000 -0300" stop="20200821030000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Manchester City</title>
+  </programme>
+  <programme start="20200821030000 -0300" stop="20200821044500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Jamaica Abaixo de Zero</title>
+  </programme>
+  <programme start="20200821044500 -0300" stop="20200821054500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200821054500 -0300" stop="20200821073000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">UEFA Europa League: Quartas De Final</title>
+  </programme>
+  <programme start="20200821073000 -0300" stop="20200821090000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: 30 For 30: George Best: All By Himself</title>
+  </programme>
+  <programme start="20200821090000 -0300" stop="20200821100000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200821100000 -0300" stop="20200821110000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200821110000 -0300" stop="20200821120000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200821120000 -0300" stop="20200821140000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200821140000 -0300" stop="20200821150000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200821150000 -0300" stop="20200821170000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: 30 For 30 - Hillsborough</title>
+  </programme>
+  <programme start="20200821170000 -0300" stop="20200821180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200821180000 -0300" stop="20200821200000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200821200000 -0300" stop="20200821210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200821210000 -0300" stop="20200821220000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200821220000 -0300" stop="20200821230000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200821230000 -0300" stop="20200822000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200822000000 -0300" stop="20200822010000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200822010000 -0300" stop="20200822030000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: 30 For 30 - Hillsborough</title>
+  </programme>
+  <programme start="20200822030000 -0300" stop="20200822040000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200822040000 -0300" stop="20200822050000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200822050000 -0300" stop="20200822070000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">MLS: Portland Timbers x Orlando City SC</title>
+  </programme>
+  <programme start="20200822070000 -0300" stop="20200822085500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Manchester City</title>
+  </programme>
+  <programme start="20200822085500 -0300" stop="20200822110000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Dalian Pro x Guangzhou R&amp;F - Ao Vivo</title>
+  </programme>
+  <programme start="20200822110000 -0300" stop="20200822120000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: Garrincha do Timão</title>
+  </programme>
+  <programme start="20200822120000 -0300" stop="20200822140000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Liverpool x Manchester United</title>
+  </programme>
+  <programme start="20200822140000 -0300" stop="20200822150000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200822150000 -0300" stop="20200822160000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200822160000 -0300" stop="20200822180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: 30 For 30: The Two Escobars</title>
+  </programme>
+  <programme start="20200822180000 -0300" stop="20200822193000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200822193000 -0300" stop="20200822203000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: Garrincha do Timão</title>
+  </programme>
+  <programme start="20200822203000 -0300" stop="20200822210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Sonho de Garoto - Vida de Goleiro</title>
+  </programme>
+  <programme start="20200822210000 -0300" stop="20200822233000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200822233000 -0300" stop="20200823003000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200823003000 -0300" stop="20200823013000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Miguel Ángel Ramírez, Treinador do Independiente Del Valle</title>
+  </programme>
+  <programme start="20200823013000 -0300" stop="20200823023000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200823023000 -0300" stop="20200823033000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200823033000 -0300" stop="20200823043000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Filmes: Garrincha do Timão</title>
+  </programme>
+  <programme start="20200823043000 -0300" stop="20200823050000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Gary Neville</title>
+  </programme>
+  <programme start="20200823050000 -0300" stop="20200823060000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200823060000 -0300" stop="20200823063000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Sonho de Garoto - Vida de Goleiro</title>
+  </programme>
+  <programme start="20200823063000 -0300" stop="20200823070000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Sangue, Suór, Filantropia</title>
+  </programme>
+  <programme start="20200823070000 -0300" stop="20200823085500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Liverpool x Manchester United</title>
+  </programme>
+  <programme start="20200823085500 -0300" stop="20200823095500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200823095500 -0300" stop="20200823105500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200823105500 -0300" stop="20200823130000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Borussia Dortmund x Austria Viena - Ao Vivo</title>
+  </programme>
+  <programme start="20200823130000 -0300" stop="20200823140000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Miguel Ángel Ramírez, Treinador do Independiente Del Valle</title>
+  </programme>
+  <programme start="20200823140000 -0300" stop="20200823160000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200823160000 -0300" stop="20200823180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Chelsea x Manchester United</title>
+  </programme>
+  <programme start="20200823180000 -0300" stop="20200823210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200823210000 -0300" stop="20200823220000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200823220000 -0300" stop="20200823230000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Faustino Asprilla</title>
+  </programme>
+  <programme start="20200823230000 -0300" stop="20200824000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200824000000 -0300" stop="20200824010000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200824010000 -0300" stop="20200824030000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Borussia Dortmund x Áustria Viena</title>
+  </programme>
+  <programme start="20200824030000 -0300" stop="20200824040000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200824040000 -0300" stop="20200824060000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200824060000 -0300" stop="20200824070000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Candidato a Juiz - Desafio de Repórter</title>
+  </programme>
+  <programme start="20200824070000 -0300" stop="20200824090000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Chelsea x Manchester United</title>
+  </programme>
+  <programme start="20200824090000 -0300" stop="20200824100000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200824100000 -0300" stop="20200824110000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200824110000 -0300" stop="20200824120000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200824120000 -0300" stop="20200824140000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200824140000 -0300" stop="20200824150000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200824150000 -0300" stop="20200824170000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x West Bromwich</title>
+  </programme>
+  <programme start="20200824170000 -0300" stop="20200824180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200824180000 -0300" stop="20200824200000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200824200000 -0300" stop="20200824210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200824210000 -0300" stop="20200824220000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200824220000 -0300" stop="20200824230000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200824230000 -0300" stop="20200825000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200825000000 -0300" stop="20200825010000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200825010000 -0300" stop="20200825030000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x West Bromwich</title>
+  </programme>
+  <programme start="20200825030000 -0300" stop="20200825040000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200825040000 -0300" stop="20200825060000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Borussia Dortmund x Áustria Viena</title>
+  </programme>
+  <programme start="20200825060000 -0300" stop="20200825070000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: Sonhos Dourados</title>
+  </programme>
+  <programme start="20200825070000 -0300" stop="20200825090000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x West Bromwich</title>
+  </programme>
+  <programme start="20200825090000 -0300" stop="20200825100000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200825100000 -0300" stop="20200825110000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200825110000 -0300" stop="20200825120000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200825120000 -0300" stop="20200825125500 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200825125500 -0300" stop="20200825150000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Ajax x Wolfsberger - Ao Vivo</title>
+  </programme>
+  <programme start="20200825150000 -0300" stop="20200825160000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200825160000 -0300" stop="20200825180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Chelsea</title>
+  </programme>
+  <programme start="20200825180000 -0300" stop="20200825200000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200825200000 -0300" stop="20200825210000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200825210000 -0300" stop="20200825220000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200825220000 -0300" stop="20200825230000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Miguel Ángel Ramírez, Treinador do Independiente Del Valle</title>
+  </programme>
+  <programme start="20200825230000 -0300" stop="20200826000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
   </programme>
 </tv>
